@@ -22,7 +22,8 @@
 
 ### Click below to learn how to add the zoom backgrounds. Timer Backgrounds in the Timer Documents ʕ•́ᴥ•̀ʔっ
 
-https://user-images.githubusercontent.com/99045240/179088032-5a257f2e-23cc-42b2-9079-f4d76c62e3bb.mp4
+[![How to add zoom background](https://user-images.githubusercontent.com/99045240/179086490-d3d77f20-290a-4231-83a4-328e74c7804e.png)
+](https://youtu.be/pPoPowHDtsQ)
 
 ## [Topicsmaster](https://www.toastmasters.org/membership/club-meeting-roles/topicsmaster)
 *Taking on this role improves organization skills, time management and facilitation skills. The Topicsmaster delivers the Table Topics® portion of the meeting, which helps train members to quickly organize and express their thoughts in an impromptu setting. As Topicsmaster, you: Select topics in advance of the meeting that allow speakers to offer opinions. Give members who aren't assigned a speaking role the opportunity to speak during the meeting by assigning impromptu talks on non-specialized themes or topics. Don't ask two people the same thing unless you specify that it is to generate opposing viewpoints. In clubs presenting a Best Table Topics speaker award, ask members to vote for the best Table Topics speaker.*
