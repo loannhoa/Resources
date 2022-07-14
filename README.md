@@ -1,10 +1,16 @@
 # [Overview of Club Meeting Roles and Resources](https://www.toastmasters.org/membership/club-meeting-roles)
 
 ## [Toastmaster](https://www.toastmasters.org/membership/club-meeting-roles/toastmaster)
+<details>
+  <summary>Click to expand!</summary>
+  
 *Taking on this role improves organization, time management and public speaking skills. The Toastmaster is the meeting's director and host. A member typically will not be assigned this role until they are thoroughly familiar with the club and its procedures. As Toastmaster, you: Acquire a meeting agenda from your vice president education. Work with the General Evaluator to ensure all club participants know their roles and responsibilities. Introduce speakers during the club meeting, including their speech topic, project title, objectives, delivery time, etc. during your introduction. Ensure smooth transitions between speakers during the club meeting.*
 [Toastmaster Documents here](https://drive.google.com/drive/folders/1k4bk3ct92MMM4y3epR4cinvRHAwcGvg2)
+  
+</details>
 
 ## [General Evaluator](https://www.toastmasters.org/membership/club-meeting-roles/general-evaluator)
+
 *Taking on this role improves critical thinking, organization, time management, motivational and team-building skills. The General Evaluator evaluates everything that takes place during the club meeting. In addition, the General Evaluator conducts the evaluation portion of the meeting and is responsible for the evaluation team: the speech evaluators, Ah Counter, grammarian and timer. As General Evaluator, you: Ensure other evaluators know their tasks and responsibilities. Explain the purpose and benefits of evaluations to the group. Identify and confirm meeting assignments with the timer, grammarian and Ah-Counter. Confirm the club meeting program and/or checklist with the Toastmaster. During the meeting, take notes and report on all club proceedings to evaluate things such as timeliness, enthusiasm, preparation, organization, performance of duties, etc.*
 [General Evaluator Documents here](https://drive.google.com/drive/folders/1qP6jE3tjJHfShFvc49lU1Pmg6YWhlrfj)
 
