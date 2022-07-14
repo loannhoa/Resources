@@ -20,6 +20,10 @@
 *Taking on this role improves time management skills. One of the skills Toastmasters practice is expressing a thought within a specific time. The timer is responsible for monitoring time for each meeting segment and each speaker. As Timer, you: Acquire the timing/signaling equipment from the sergeant at arms and know how to operate it. Explain the timing rules and demonstrate the signal device if called upon to do so. Throughout the meeting, listen carefully to each participant and signal them accordingly. When called to report, announce the speakers' names and the time taken. After the meeting, return the timing/signaling equipment to the sergeant at arms.*
 [Timer Documents here](https://drive.google.com/drive/folders/1IvrLs5gK5LAW42HLnmKQHWp7F2R5Unoa)
 
+### Use this for timing purposes 
+
+[![timer](https://user-images.githubusercontent.com/99045240/179090705-e0119256-8ab9-4da5-aefa-d24cf4dc5a9b.png)](https://tmtimer.calebgrove.com/)
+
 ### Click below to learn how to add the zoom backgrounds. Timer Backgrounds in the Timer Documents ʕ•́ᴥ•̀ʔっ
 
 <video src="https://user-images.githubusercontent.com/99045240/179088953-7643ec15-5410-4664-9d0d-2cfeed70e023.mov" controls="controls" style="max-width: 730px;">
