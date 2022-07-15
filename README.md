@@ -64,14 +64,6 @@ Click below to learn how to add the zoom backgrounds. Timer Backgrounds in the T
 </video>
 </details>
 
-
-
-
-https://user-images.githubusercontent.com/99045240/179264112-de6a3edf-e784-4cbd-a1fa-ac5cc877bb00.mp4
-
-
-
-
 ## [Topicsmaster](https://www.toastmasters.org/membership/club-meeting-roles/topicsmaster)
 <details>
   <summary>Click to expand!</summary>
